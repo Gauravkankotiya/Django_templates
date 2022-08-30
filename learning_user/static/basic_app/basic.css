@@ -1,0 +1,15 @@
+.adding{
+    background-color: #b3bab5;
+    border-radius: 20px;
+  }
+  .adding2{
+    padding: 25px 50px 25px 50px;
+  }
+  .row{
+    border: solid white;
+    /* border-width:100px; */
+    border-left-width: 150px;
+    border-right-width: 150px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+  }
